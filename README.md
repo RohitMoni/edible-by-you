@@ -1,1 +1,3 @@
-# ediblebyyou
+# Edible By You
+
+Food blog
